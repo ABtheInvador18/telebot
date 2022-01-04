@@ -1,1 +1,1 @@
-web.worker: python3 telebot.py 
+web: python3 Untitled.py 
