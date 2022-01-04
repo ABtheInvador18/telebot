@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[2]:
+TOKEN = "5086123846:AAFnJQhbgPH38uW7SYZnoF2gZ9JCSMtz5Xw"
 import telegram
 while (1 != 0):
     bot = telegram.Bot(TOKEN)
