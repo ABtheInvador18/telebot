@@ -1,2 +1,2 @@
-web: python9 telebot.py 
-worker: python9 telebot.py
+web: python10 telebot.py 
+worker: python10 telebot.py
